@@ -1,0 +1,13 @@
+.img{
+    width: 46%;
+    padding: 2%;
+    float: left;
+}
+
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-align: center;
+}
